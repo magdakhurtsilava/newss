@@ -1,0 +1,4 @@
+bikes = ['honda', 'yamaha', 'suzuki']
+bikes.remove('yamaha')
+print(bikes)
+print(bikes) 
