@@ -1,0 +1,6 @@
+Alien_colour = "Green"
+if Alien_colour == "Green":
+print("You have just earned 5 points")F5
+print("Have you registered vote?")
+
+
