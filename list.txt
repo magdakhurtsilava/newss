@@ -1,0 +1,19 @@
+users = ['val', 'bob', 'mia', 'ron', 'ned'] 
+first_user = users [0]
+second_user=us
+newest_user=users[1]
+users[0]='valerine'
+users[-2]='ronald'
+users.append('amy')
+users = []
+users.append('val')
+users.append('bob')
+users.append('mia')
+users.insert(0, 'joe')
+users.insert(3, 'bea')
+users.remove('mia')
+most_recent_user = users.pop()
+print(most_recent_user)
+first_user = users.pop(0)
+print(first_user) 
+
